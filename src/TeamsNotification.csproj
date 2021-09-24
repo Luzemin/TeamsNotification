@@ -56,7 +56,7 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp.Program</StartupObject>
+    <StartupObject>TeamsNotification.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

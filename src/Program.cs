@@ -6,7 +6,7 @@ using System.Net;
 using System.Net.Mail;
 using System.Timers;
 
-namespace ConsoleApp
+namespace TeamsNotification
 {
     public class Program
     {
